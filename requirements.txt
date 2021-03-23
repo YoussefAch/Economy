@@ -1,0 +1,10 @@
+matplotlib==3.1.2
+seaborn==0.11.0.dev0
+joblib==0.13.2
+scipy==1.4.1
+tsfel==0.1.2
+xgboost==0.90
+pandas==0.25.3
+numpy==1.18.1
+Orange==2.7.8
+scikit_learn==0.23.0
